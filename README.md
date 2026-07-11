@@ -20,7 +20,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 0 |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
 | **Total** | **0** |
